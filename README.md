@@ -13,7 +13,7 @@ This project is a rewrite of the printf function from the C standard library.
 2- Enter in ft_printf dir and compile the program with the `make` command
 	
  ```
-  cd ft_printf
+ cd ft_printf
  make
  ```
 
