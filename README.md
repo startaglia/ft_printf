@@ -14,12 +14,9 @@ This project is a rewrite of the printf function from the C standard library.
 	
  ```
   cd ft_printf
+ make
  ```
 
-3- Enter in printf dir and compile the program with the `make` command
-
-    make
-	
 ### Makefile Available Targets:  
 `make` or `make all` - Makes exe file 
 `make clean` - Deletes all the resulting object files  
