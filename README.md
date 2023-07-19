@@ -7,7 +7,7 @@ This project is a rewrite of the printf function from the C standard library.
 1- Clone the repo:
   
   ```sh
-  git clone https://github.com/startaglia/libft.git ft_printf
+  git clone https://github.com/startaglia/ft_printf ft_printf
   ```
 
 2- Enter in ft_printf dir and compile the program with the `make` command
@@ -25,15 +25,8 @@ This project is a rewrite of the printf function from the C standard library.
 `make clean` - Deletes all the resulting object files  
 `make fclean` - Deletes the executables and all the resulting object files  
 `make re` - fclean + all  
-`make bonus` - same as `all`, added for subject purposes
 </br></br>
 
-Download/clone the repo:
-  
-  ```sh
-  git clone https://github.com/startaglia/libft.git ft_printf
-  cd ft_printf
-  ```
 It's a project written on Linux, to make it work on MAC you have to replace `intptr_t` with `uintptr_t` </br></br>
 Now you have your printflib ready to use!
 
