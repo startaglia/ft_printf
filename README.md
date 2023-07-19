@@ -27,6 +27,21 @@ This project is a rewrite of the printf function from the C standard library.
 It's a project written on Linux, to make it work on MAC you have to replace `intptr_t` with `uintptr_t` </br></br>
 Now you have your printflib ready to use!
 
-## Authors
+## Technologies Used:
 
-### Simone Tartaglia -  startaglia89@gmail.com - <a href="https://github.com/startaglia" target="_blank"><img align="center" src="https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/simone-tartaglia-134723248/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simone-tartaglia-134723248/" height="30" width="30" /></a>
+- **Programming Language**: C
+- **Operating System**: Linux
+- **Compiler**: GCC (GNU Compiler Collection)
+- **Build System**: GNU Make
+- **C Standard Library**
+- **Variadic Functions**: Handling variable-length argument lists with `stdarg.h`
+- **Command Line Arguments Handling**: Techniques such as `argc`/`argv`
+
+
+
+## Authors:
+
+- **Simone Tartaglia**
+  - Email: [startaglia89@gmail.com](mailto:startaglia89@gmail.com)
+  - GitHub: [startaglia](https://github.com/startaglia)
+  - LinkedIn: [Simone Tartaglia](https://www.linkedin.com/in/simone-tartaglia-134723248/)
